@@ -1,6 +1,6 @@
 // Game settings
 const words = [
-    "bridge", "bottle", "planet", "guitar", "jacket", "camera", "pyramid", 
+    "bottle", "planet", "bridge", "guitar", "jacket", "camera", "pyramid", 
     "lantern", "garden", "umbrella", "mirror", "chicken", "blanket", "candle", 
     "fountain", "ladder", "canyon", "harbor", "island", "tunnel", "lighthouse", 
     "circuit", "gallery", "journey", "horizon", "glacier", "compass", "treasure", 
