@@ -1,12 +1,12 @@
 // Game settings
 const words = [
-    "bottle", "planet", "bridge", "guitar", "jacket", "camera", "pyramid", 
-    "lantern", "garden", "umbrella", "mirror", "chicken", "blanket", "candle", 
-    "fountain", "ladder", "canyon", "harbor", "island", "tunnel", "lighthouse", 
-    "circuit", "gallery", "journey", "horizon", "glacier", "compass", "treasure", 
-    "voyage", "mountain", "balloon", "plummet", "wreath", "stadium", "orchard", 
-    "wildfire", "meadow", "carousel", "anvil", "potion", "goblet", "saddle"
-  ];
+    "apple", "smile", "house", "dog", "cat", "book", "tree", 
+    "water", "ball", "chair", "cloud", "desk", "door", "fish", 
+    "grass", "hat", "juice", "king", "lamp", "mouse", "nest", 
+    "ocean", "pen", "queen", "road", "shoe", "table", "voice", 
+    "window", "zebra", "cake", "duck", "eggs", "fork", "girl", 
+    "horse", "ice", "joke", "kite", "lion", "moon"
+];
   
   
 let selectedWord = "";
